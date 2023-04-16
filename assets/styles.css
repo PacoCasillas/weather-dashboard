@@ -1,0 +1,50 @@
+.weatherDay {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    background-color: green;
+}
+
+.weatherDay p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.currentTemp {
+    font-size: xx-large;
+}
+
+.degSign {
+    font-size: xx-large;
+}
+
+.container-current-data {
+    font-size: x-large;
+    margin: 1rem;
+}
+
+.celcius, .mph {
+    font-size: small;
+}
+
+.hightemp, .wind, .humidity {
+    font-size: large;
+}
+
+.day-icons {
+    width: 5rem;
+    height: auto;
+}
+
+.current-weather-box {
+    margin-right: 2.5rem;
+}
+
+.day-card {
+    border: 1px solid black;
+    margin: 1rem;
+    align-items: center;
+    border-radius: .5rem;
+}
