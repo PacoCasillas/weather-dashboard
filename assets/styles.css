@@ -1,16 +1,3 @@
-.weatherDay {
-    border: 2px solid gray;
-    border-radius: 5px;
-    padding: 5px;
-    margin: 10px;
-    background-color: green;
-}
-
-.weatherDay p {
-    margin-top: 5px;
-    margin-bottom: 5px;
-
-}
 
 .currentTemp {
     font-size: xx-large;
