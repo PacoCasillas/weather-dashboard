@@ -12,11 +12,12 @@ I want to create a page that will load the weather forecast
 
 The application can be accessed at : https://pacocasillas.github.io/weather-dashboard/
 
+The repo link is : https://github.com/PacoCasillas/weather-dashboard
+
 This is a preview of the application :
 
-```md
-    ![alt text](./assets/icons/example.png)
-    ```
+![alt text](./assets/icons/example.png)
+
 
 ## License 
 
