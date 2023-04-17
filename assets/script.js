@@ -94,12 +94,12 @@ function cardForecast (data) {
     forecastDetailContainer.appendChild(dateElement);
 
     var temperatureElement = document.createElement('div');
-    temperatureElement.classList.add('col-4');
+    temperatureElement.classList.add('col-5');
     temperatureElement.textContent = temperature;
     forecastDetailContainer.appendChild(temperatureElement);
 
     var windElement = document.createElement('div');
-    windElement.classList.add('col-4');
+    windElement.classList.add('col-3');
     windElement.textContent = windSpeed;
     forecastDetailContainer.appendChild(windElement);
 
